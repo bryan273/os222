@@ -1,7 +1,7 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-
+ZCZC W00 40 L08 Ask friends about OS related
 ZCZC W00 20 L01 Take a look at OS announcement
 ZCZC W00 5 L03 Create repo mylog.txt and push
 ZCZC W00 30 L01 Checking os.vlsm.org
@@ -9,4 +9,4 @@ ZCZC W00 100 L02 First meet on OS B
 ZCZC W00 30 L10 Start assignment week 0
 ZCZC W00 30 L41 Update TXT/mylog.txt with the log that i've done
 ZCZC W00 1 L03 Push updated mylog.txt
-ZCZC W00 1 L06 Look at the OS presentation for references
+ZCZC W00 30 L06 Look at the OS presentation for references
