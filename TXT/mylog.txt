@@ -1,6 +1,7 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 15 L01 checking SCELE
 ZCZC W00 40 L08 Ask friends about OS related
 ZCZC W00 30 L01 Take a look at OS announcement
 ZCZC W00 60 L03 Learn to use github
