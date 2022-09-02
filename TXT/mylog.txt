@@ -16,3 +16,6 @@ ZCZC W00 30 L01 Checking os.vlsm.org
 ZCZC W00 20 L06 Browsing OS references
 ZCZC W00 30 L04 Make Github Pages
 ZCZC W00 100 L02 Second meet on OS B
+ZCZC W00 90 L06 Study about the Introduction OS from slides and record
+ZCZC W00 120 L06 Study about the Chapter 2 OS from slides and record
+ZCZC W00 30 L06 Search OS reference from practice questions
