@@ -19,3 +19,5 @@ ZCZC W00 100 L02 Second meet on OS B
 ZCZC W00 90 L06 Study about the Introduction OS from slides and record
 ZCZC W00 120 L06 Study about the Chapter 2 OS from slides and record
 ZCZC W00 30 L06 Search OS reference from practice questions
+ZCZC W00 90 L06 Study and repeat about the Introduction OS from slides and record
+ZCZC W00 90 L06 Study and repeat about the Chapter 2 OS from slides and record
