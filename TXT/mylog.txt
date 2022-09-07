@@ -26,3 +26,7 @@ ZCZC W00 3 L05 Do the OS quiz
 ZCZC W00 45 L05 Search for the quiz answer after quiz 
 ZCZC W01 120 L62 Install Virtual Debian Guest and fix the settings
 ZCZC W01 30 L08 Asking friend about virtual debian guest settings
+ZCZC W01 100 L02 Third meet on OS B
+ZCZC W01 30 L08 Asking teaching assistant about OS week 1
+ZCZC W01 45 L27 Download and setup SSH, putty, winscp
+ZCZC W01 90 L11 Running virtual box 
