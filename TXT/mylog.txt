@@ -30,3 +30,7 @@ ZCZC W01 100 L02 Third meet on OS B
 ZCZC W01 30 L08 Asking teaching assistant about OS week 1
 ZCZC W01 45 L27 Download and setup SSH, putty, winscp
 ZCZC W01 90 L11 Running virtual box 
+ZCZC W01 120 L11 Dress up virtual box and pull/push from github 
+ZCZC W01 100 L02 Forth meet on OS B
+ZCZC W01 60 L08 Assistance about OS week 1
+ZCZC W01 60 L12 Reading material for week 1
