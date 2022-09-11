@@ -37,3 +37,4 @@ ZCZC W01 60 L12 Reading material for week 1
 ZCZC W01 60 L05 Study and search reference to prepare for OS quiz
 ZCZC W01 3 L05 Do the OS quiz
 ZCZC W01 20 L05 Search for the quiz answer after quiz 
+ZCZC W01 30 L04 Edit Github Pages
