@@ -39,3 +39,5 @@ ZCZC W01 3 L05 Do the OS quiz
 ZCZC W01 20 L05 Search for the quiz answer after quiz 
 ZCZC W01 30 L04 Edit Github Pages
 ZCZC W02 120 L06 Reading references assignment week 2
+ZCZC W02 45 L12 Do task about GnuPg
+ZCZC W02 15 L08 Ask about rank and other else to friend
