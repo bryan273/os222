@@ -26,7 +26,9 @@ Artikel ini dapat membantu kita untuk mempelajari beberapa perintah linux. Sekal
 ### Week02
 
 1. [Learn GPG](https://www.privex.io/articles/what-is-gpg)
+ 
 Website ini memberikan penjelasan yang lengkap dan menyeluruh tentang GPG. Seperti yang kita ketahui di minggu ini, kita diharuskan untuk menghasilkan GPG Key Pair. Di dalam web ini, penjelasan tentang istilah tersebut dapat diketahui di sini.
 
 2. [Learn C](https://www.freecodecamp.org/news/the-c-beginners-handbook/)
+
 Website ini menyediakan tutorial cara menggunakan baahsa C. Web ini memberikan dasar-dasar penting untuk memulai menggunakan C. Tutorial ini akan lebih mudah dipahami, apalagi jika kalian telah mempelajari DDP2.
