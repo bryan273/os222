@@ -41,3 +41,12 @@ ZCZC W01 30 L04 Edit Github Pages
 ZCZC W02 120 L06 Reading references assignment week 2
 ZCZC W02 45 L12 Do task about GnuPg
 ZCZC W02 15 L08 Ask about rank and other else to friend
+ZCZC W02 45 L13 Do task about Links
+ZCZC W02 120 L02 5th meet on OS B
+ZCZC W02 30 L14 Do task about Review links
+ZCZC W02 80 L15 Do task about Script download
+ZCZC W02 60 L12 Do task about Finishing
+ZCZC W02 120 L02 6th meet on OS B
+ZCZC W02 60 L08 Ask assignments to friend
+ZCZC W02 10 L11 pull/push from github 
+ZCZC W02 15 L03 Push updated mylog.txt
