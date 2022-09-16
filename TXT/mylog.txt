@@ -50,3 +50,6 @@ ZCZC W02 120 L02 6th meet on OS B
 ZCZC W02 60 L08 Ask assignments to friend
 ZCZC W02 10 L11 pull/push from github 
 ZCZC W02 15 L03 Push updated mylog.txt
+ZCZC W02 100 L05 Study and search reference to prepare for OS quiz
+ZCZC W02 3 L05 Do the OS quiz
+ZCZC W02 45 L05 Search for the quiz answer after quiz 
