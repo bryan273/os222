@@ -32,7 +32,7 @@ Website ini menyediakan tutorial cara menggunakan baahsa C. Web ini memberikan d
 
 ### Week03
 1. [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/)  
-File systems is a rather interesting and remote part of Operating System I’ve learnt so far. This article helps me to understand about File System.
+Sistem file adalah bagian yang agak menarik dan jauh dari Sistem Operasi yang telah saya pelajari sejauh ini. Artikel ini membantu saya untuk memahami tentang Sistem File.
 
 2. [Linux File System](https://likegeeks.com/linux-file-system/)   
-Another easy guide to learn about file system, spesifically, Linux File Systems. This article also contains explanation about Linux File System Directories.
+Panduan mudah lainnya untuk mempelajari sistem file, khususnya Sistem File Linux. Artikel ini juga berisi penjelasan tentang Direktori Sistem File Linux.
