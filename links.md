@@ -31,8 +31,8 @@ Website ini memberikan penjelasan yang lengkap dan menyeluruh tentang GPG. Seper
 Website ini menyediakan tutorial cara menggunakan baahsa C. Web ini memberikan dasar-dasar penting untuk memulai menggunakan C. Tutorial ini akan lebih mudah dipahami, apalagi jika kalian telah mempelajari DDP2.
 
 ### Week03
-1. [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/) 
+1. [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/)  
 File systems is a rather interesting and remote part of Operating System I’ve learnt so far. This article helps me to understand about File System.
 
-2. [Linux File System](https://likegeeks.com/linux-file-system/) 
+2. [Linux File System](https://likegeeks.com/linux-file-system/)   
 Another easy guide to learn about file system, spesifically, Linux File Systems. This article also contains explanation about Linux File System Directories.
