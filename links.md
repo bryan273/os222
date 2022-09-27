@@ -36,3 +36,10 @@ Sistem file adalah bagian yang agak menarik dan jauh dari Sistem Operasi yang te
 
 2. [Linux File System](https://likegeeks.com/linux-file-system/)   
 Panduan mudah lainnya untuk mempelajari sistem file, khususnya Sistem File Linux. Artikel ini juga berisi penjelasan tentang Direktori Sistem File Linux.
+
+### Week04
+1. [Address space](https://www.ibm.com/docs/en/zos-basic-skills?topic=storage-what-is-address-space)  
+Rentang alamat virtual yang diberikan sistem operasi ke pengguna atau program yang dijalankan secara terpisah disebut ruang alamat. Ini adalah area alamat virtual yang berdekatan yang tersedia untuk mengeksekusi instruksi dan menyimpan data.
+
+2. [Dynamic & Static Linking](https://cs-fundamentals.com/tech-interview/c/difference-between-static-and-dynamic-linking)  
+Linking adalah proses menyatukan program eksternal yang dibutuhkan oleh program yang kita tulis untuk keberhasilan eksekusinya. Tautan statis dan dinamis adalah dua proses mengumpulkan dan menggabungkan beberapa file objek untuk membuat satu executable. Di sini kita akan membahas perbedaan di antara mereka.
