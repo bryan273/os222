@@ -68,3 +68,18 @@ ZCZC W03 15 L03 Push updated mylog.txt
 ZCZC W03 100 L05 Study and search reference to prepare for OS quiz1
 ZCZC W03 3 L05 Do the OS quiz1
 ZCZC W03 45 L05 Search for the quiz answer after quiz
+ZCZC W04 10 L06 Reading references
+ZCZC W04 120 L11 Reading references assignment week 4
+ZCZC W04 60 L12 Compiling The Linux Programming Interface (TLPI)
+ZCZC W04 15 L08 Ask about rank and other else to friend
+ZCZC W04 75 L13 Do task about Finishing
+ZCZC W04 100 L05 Study and search reference to prepare for OS quiz2
+ZCZC W04 10 L05 Do the OS quiz02
+ZCZC W04 120 L02 9th meet on OS B
+ZCZC W04 120 L02 10th meet on OS B
+ZCZC W04 60 L08 Ask assignments to friend
+ZCZC W04 10 L11 pull/push from github
+ZCZC W04 15 L03 Push updated mylog.txt
+ZCZC W04 100 L05 Study and search reference to prepare for OS quiz1
+ZCZC W04 3 L05 Do the OS quiz1
+ZCZC W04 45 L05 Search for the quiz answer after quiz
