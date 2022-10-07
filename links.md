@@ -43,3 +43,10 @@ Rentang alamat virtual yang diberikan sistem operasi ke pengguna atau program ya
 
 2. [Dynamic & Static Linking](https://cs-fundamentals.com/tech-interview/c/difference-between-static-and-dynamic-linking)  
 Linking adalah proses menyatukan program eksternal yang dibutuhkan oleh program yang kita tulis untuk keberhasilan eksekusinya. Tautan statis dan dinamis adalah dua proses mengumpulkan dan menggabungkan beberapa file objek untuk membuat satu executable. Di sini kita akan membahas perbedaan di antara mereka.
+
+### Week05
+1. [NUMA](https://www.geeksforgeeks.org/difference-between-uniform-memory-access-uma-and-non-uniform-memory-access-numa/)  
+Perbedaan antara Uniform Memory Access (UMA) dan Non-uniform Memory Access (NUMA).
+
+2. [Page-Buffering Algorithms](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)  
+Komputer dapat menangani lebih banyak memori daripada jumlah yang terpasang secara fisik pada sistem. Memori ekstra ini sebenarnya disebut memori virtual dan merupakan bagian dari hard disk yang diatur untuk meniru RAM komputer.
