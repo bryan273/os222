@@ -50,3 +50,10 @@ Perbedaan antara Uniform Memory Access (UMA) dan Non-uniform Memory Access (NUMA
 
 2. [Page-Buffering Algorithms](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)  
 Komputer dapat menangani lebih banyak memori daripada jumlah yang terpasang secara fisik pada sistem. Memori ekstra ini sebenarnya disebut memori virtual dan merupakan bagian dari hard disk yang diatur untuk meniru RAM komputer.
+
+### Week06
+1. [Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)  
+Sebuah proses pada dasarnya adalah sebuah program yang sedang dieksekusi. Eksekusi suatu proses harus berlangsung secara berurutan. 
+
+2. [Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)  
+Penjadwalan proses adalah aktivitas manajer proses yang menangani penghapusan proses yang sedang berjalan dari CPU dan pemilihan proses lain berdasarkan strategi tertentu. Penjadwalan proses adalah bagian penting dari sistem operasi Multiprogramming.
