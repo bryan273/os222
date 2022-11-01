@@ -100,3 +100,19 @@ ZCZC W05 15 L03 Push updated mylog.txt
 ZCZC W05 100 L05 Study and search reference to prepare for OS quiz1
 ZCZC W05 3 L05 Do the OS quiz1
 ZCZC W05 45 L05 Search for the quiz answer after quiz
+ZCZC W06 10 L06 Reading references
+ZCZC W06 120 L11 Reading references assignment week 6
+ZCZC W06 60 L12 Task 2
+ZCZC W06 15 L08 Ask about rank and other else to friend
+ZCZC W06 75 L13 Task 3
+ZCZC W06 60 L14 Finishing
+ZCZC W06 100 L05 Study and search reference to prepare for OS quiz2
+ZCZC W06 30 L05 Do the OS quiz02
+ZCZC W06 120 L02 13th meet on OS B
+ZCZC W06 120 L02 14th meet on OS B
+ZCZC W06 60 L08 Ask assignments to friend
+ZCZC W06 10 L11 pull/push from github
+ZCZC W06 15 L03 Push updated mylog.txt
+ZCZC W06 100 L05 Study and search reference to prepare for OS quiz1
+ZCZC W06 3 L05 Do the OS quiz1
+ZCZC W06 45 L05 Search for the quiz answer after quiz
