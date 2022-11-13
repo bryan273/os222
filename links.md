@@ -57,3 +57,10 @@ Sebuah proses pada dasarnya adalah sebuah program yang sedang dieksekusi. Ekseku
 
 2. [Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)  
 Penjadwalan proses adalah aktivitas manajer proses yang menangani penghapusan proses yang sedang berjalan dari CPU dan pemilihan proses lain berdasarkan strategi tertentu. Penjadwalan proses adalah bagian penting dari sistem operasi Multiprogramming.
+
+### Week07
+1. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)  
+Sebuah artikel yang berisi penjelasan awal seputar materi Process Synchronization yang dibahas pada week 07. Artikel menjadi pengantar awal yang bagus dalam memberikan pemahaman awal dan apa-apa saja yang akan dipelajari untuk materi pada week 07.
+
+2. [Peterson’s Problem](https://www.tutorialspoint.com/peterson-s-problem)  
+Artikel yang menjelaskan Peterson’s Problem. Artikel ini menjelaskan sintaks kode dari Peterson’s Problem disertakan juga kelemahan dari pemakaian Peterson’s Problem itu sendiri.
