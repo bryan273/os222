@@ -64,3 +64,8 @@ Sebuah artikel yang berisi penjelasan awal seputar materi Process Synchronizatio
 
 2. [Peterson’s Problem](https://www.tutorialspoint.com/peterson-s-problem)  
 Artikel yang menjelaskan Peterson’s Problem. Artikel ini menjelaskan sintaks kode dari Peterson’s Problem disertakan juga kelemahan dari pemakaian Peterson’s Problem itu sendiri.
+
+### Week 08
+
+1. [CPU Scheduling](https://www.scaler.com/topics/operating-system/cpu-scheduling/)<br>
+Link ini berisi penjelasan tentang CPU Scheduling. Cukup berguna untuk memahami scheduling.
